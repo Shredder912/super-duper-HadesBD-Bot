@@ -1,0 +1,13 @@
+{
+  "name": "HadesBD",
+  "description": "Bot for HadesBD",
+  "version": "1.0",
+  "main": "HadesBD.js",
+  "scripts": {
+    "start": "node HadesBD.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
